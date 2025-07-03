@@ -1,0 +1,26 @@
+E:\c#\SharpDevelop Projects\Space\Space\obj\Debug\Space.csprojResolveAssemblyReference.cache
+E:\c#\SharpDevelop Projects\Space\Space\bin\Debug\Space.exe.config
+E:\c#\SharpDevelop Projects\Space\Space\bin\Debug\Space.exe
+E:\c#\SharpDevelop Projects\Space\Space\bin\Debug\Space.pdb
+E:\c#\SharpDevelop Projects\Space\Space\bin\Debug\OpenTK.dll
+E:\c#\SharpDevelop Projects\Space\Space\bin\Debug\OpenTK.pdb
+E:\c#\SharpDevelop Projects\Space\Space\bin\Debug\OpenTK.xml
+E:\c#\SharpDevelop Projects\Space\Space\obj\Debug\Space.exe
+E:\c#\SharpDevelop Projects\Space\Space\obj\Debug\Space.pdb
+F:\c#\SharpDevelop Projects\Space\Space\bin\Debug\Space.exe.config
+F:\c#\SharpDevelop Projects\Space\Space\bin\Debug\Space.exe
+F:\c#\SharpDevelop Projects\Space\Space\bin\Debug\Space.pdb
+F:\c#\SharpDevelop Projects\Space\Space\bin\Debug\OpenTK.dll
+F:\c#\SharpDevelop Projects\Space\Space\bin\Debug\OpenTK.pdb
+F:\c#\SharpDevelop Projects\Space\Space\bin\Debug\OpenTK.xml
+F:\c#\SharpDevelop Projects\Space\Space\obj\Debug\Space.csprojResolveAssemblyReference.cache
+F:\c#\SharpDevelop Projects\Space\Space\obj\Debug\Space.exe
+F:\c#\SharpDevelop Projects\Space\Space\obj\Debug\Space.pdb
+D:\Documents\Space\Space\bin\Debug\Space.exe.config
+D:\Documents\Space\Space\bin\Debug\Space.exe
+D:\Documents\Space\Space\bin\Debug\Space.pdb
+D:\Documents\Space\Space\bin\Debug\OpenTK.pdb
+D:\Documents\Space\Space\bin\Debug\OpenTK.xml
+D:\Documents\Space\Space\obj\Debug\Space.csprojResolveAssemblyReference.cache
+D:\Documents\Space\Space\obj\Debug\Space.exe
+D:\Documents\Space\Space\obj\Debug\Space.pdb
